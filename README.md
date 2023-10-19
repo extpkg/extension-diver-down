@@ -1,6 +1,6 @@
 # Diver Down
 
-Extension description
+Dive into blocks, dodge luminous hazards, and leap to victory in a thrilling race to the finish!
 
 ## Build
 

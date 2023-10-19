@@ -1,7 +1,7 @@
 {
   "name": "extension-diver-down",
   "version": "1.0.0",
-  "description": "Extension description",
+  "description": "Dive into blocks, dodge luminous hazards, and leap to victory in a thrilling race to the finish!",
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_ENV=production node ./scripts/build.mjs",

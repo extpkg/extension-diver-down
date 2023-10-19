@@ -2,7 +2,7 @@
   "manifest_version": "ext-v1",
   "name": "Diver Down",
   "short_name": "Diver Down",
-  "description": "Extension description",
+  "description": "Dive into blocks, dodge luminous hazards, and leap to victory in a thrilling race to the finish!",
   "version": "1.0.0",
   "author": "EXT, Inc.",
   "icons": {
