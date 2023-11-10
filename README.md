@@ -1,6 +1,7 @@
 # Diver Down
 
-Dive into blocks, dodge luminous hazards, and leap to victory in a thrilling race to the finish!
+Dive into blocks, dodge luminous hazards, and leap to victory in a thrilling
+race to the finish!
 
 ## Build
 
