@@ -47,24 +47,24 @@ ext.runtime.onExtensionClick.addListener(async () => {
       mutable: true,
     });
 
-    const aspectRatio = 384 / 216;
-    const minWidth = 768;
-    const minHeight = minWidth / aspectRatio;
+    const width = 768;
+    const height = 432;
+    const aspectRatio = width / height;
+    const minWidth = width;
 
     window = await ext.windows.create({
       center: true,
-      fullscreenable: true,
-      // maximizable: false,
+      maximizable: false,
       title,
       icon: "./assets/128.png",
       darkMode: true,
       vibrancy: false,
       frame: false,
       titleBarStyle: "inset",
-      width: minWidth,
-      height: minHeight,
+      width,
+      height,
       minWidth,
-      minHeight,
+      minHeight: width,
       aspectRatio,
     });
 
